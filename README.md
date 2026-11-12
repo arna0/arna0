@@ -43,8 +43,8 @@
 |---|---|---|
 | 🧑‍🔧 **[SynapKor](https://github.com/arna0/synapk0r)** · [demo ▶](https://arna0.github.io/synapk0r/) | **VentureHack 2026, EdTech track.** A first-person 3D career simulator: try a real job (IT engineer, doctor, safety engineer, barista) for 5 minutes and get a skills report. Claude writes a personal debrief from the action log. Tested with real users: 86% finished without help, 4.86/5 clarity | JavaScript, three.js, Node.js, Claude API, Flutter |
 | 📡 **[JamMap](https://github.com/arna0/jammap)** · [demo ▶](https://arna0.github.io/jammap/) | **Colosseum Crypto World's Fair 2026.** Ordinary Android phones detect GPS jamming and spoofing; an incident is confirmed on Solana only when 3 independent phones agree. Drones and fleets buy route risk per request in USDC | Kotlin, Rust, Anchor, Solana, Node.js |
-| 🏙️ **[Shymkent Swipe](https://github.com/arna0/shym-swipe-prototype)** · [demo ▶](https://arna0.github.io/shym-swipe-prototype/) | Residents swipe through city problems to vote on what matters most. An AI service merges duplicate complaints within 30 m and scores urgency, and the city hall dashboard shows the result on a map | React, TypeScript, Express, Prisma, FastAPI, Leaflet |
-| ⚖️ **[LexGuard AI](https://github.com/arna0/doc-checker)** · [demo ▶](https://arna0.github.io/doc-checker/) | Reads a contract, highlights risky and one-sided clauses, explains each risk in plain language, and generates a balanced agreement step by step | React, TypeScript, Gemini API, Tailwind |
+| 🏙️ **[Shymkent Swipe](https://github.com/arna0/shymkent-swipe)** · [demo ▶](https://arna0.github.io/shymkent-swipe/) | Residents swipe through city problems to vote on what matters most. An AI service merges duplicate complaints within 30 m and scores urgency, and the city hall dashboard shows the result on a map | React, TypeScript, Express, Prisma, FastAPI, Leaflet |
+| ⚖️ **[LexGuard AI](https://github.com/arna0/lexguard)** · [demo ▶](https://arna0.github.io/lexguard/) | Reads a contract, highlights risky and one-sided clauses, explains each risk in plain language, and generates a balanced agreement step by step | React, TypeScript, Gemini API, Tailwind |
 
 ### 🧪 More projects
 
@@ -52,7 +52,7 @@
 |---|---|---|
 | 🏫 **[NIS Portal API](https://github.com/arna0/nis-portal-api)** · [API docs ▶](https://arna0.github.io/nis-portal-api/) | Backend for a school portal: teachers, classes, students, schedule, criteria-based grading (FO/SOR/SOCh) and announcements. About 40 REST endpoints | Python, FastAPI, SQLAlchemy, PostgreSQL, Docker |
 | 🔎 **[Hack Searcher](https://github.com/arna0/hack-searcher)** · [demo ▶](https://arna0.github.io/hack-searcher/) | Find hackathons and teammates: event explorer, role-based team matching, team agreement builder | React, TypeScript, Tailwind, Flutter theme |
-| 🔭 **[Foundry Space](https://github.com/arna0/design-test)** · [demo ▶](https://arna0.github.io/design-test/) | A design study: an online store for astronomy prints with an animated orrery and starfield | React, TypeScript, Canvas, Tailwind |
+| 🔭 **[Foundry Space](https://github.com/arna0/foundry-space)** · [demo ▶](https://arna0.github.io/foundry-space/) | A design study: an online store for astronomy prints with an animated orrery and starfield | React, TypeScript, Canvas, Tailwind |
 
 ---
 
