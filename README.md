@@ -50,7 +50,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| 🏫 **[NIS Portal API](https://github.com/arna0/---)** · [API docs ▶](https://arna0.github.io/---/) | Backend for a school portal: teachers, classes, students, schedule, criteria-based grading (FO/SOR/SOCh) and announcements. About 40 REST endpoints | Python, FastAPI, SQLAlchemy, PostgreSQL, Docker |
+| 🏫 **[NIS Portal API](https://github.com/arna0/nis-portal-api)** · [API docs ▶](https://arna0.github.io/nis-portal-api/) | Backend for a school portal: teachers, classes, students, schedule, criteria-based grading (FO/SOR/SOCh) and announcements. About 40 REST endpoints | Python, FastAPI, SQLAlchemy, PostgreSQL, Docker |
 | 🔎 **[Hack Searcher](https://github.com/arna0/hack-searcher)** · [demo ▶](https://arna0.github.io/hack-searcher/) | Find hackathons and teammates: event explorer, role-based team matching, team agreement builder | React, TypeScript, Tailwind, Flutter theme |
 | 🔭 **[Foundry Space](https://github.com/arna0/design-test)** · [demo ▶](https://arna0.github.io/design-test/) | A design study: an online store for astronomy prints with an animated orrery and starfield | React, TypeScript, Canvas, Tailwind |
 
