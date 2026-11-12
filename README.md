@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Arnur 👋</h1>
 
 <p align="center">
-  <b>Tailan Arnur Kairatuly · student at NIS Shymkent (Karatau), Kazakhstan 🇰🇿 · focused on AI and building things that help people</b><br/>
+  <b>Tailan Arnur · student at NIS Shymkent (Karatau), Kazakhstan 🇰🇿 · focused on AI and building things that help people</b><br/>
   I take ideas from a hackathon weekend to a working product: AI-powered web apps, civic tech for my city, EdTech and Web3. I like projects where the user is a real person with a real problem.
 </p>
 
